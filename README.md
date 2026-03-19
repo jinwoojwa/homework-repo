@@ -1,1 +1,5 @@
-# homework-repo
+# [KB] IT's Your Life - 과제 레포지토리
+
+## 🗂 과제 목록
+
+### 📅 2026-03-19
