@@ -23,3 +23,10 @@
 - [2026-03-23 부트스트랩](./assignments/2026-03-23-MON/04_bootstrap)
 - [2026-03-23 스타일](./assignments/2026-03-23-MON/05_style)
 - [2026-03-23 Vuejs 추가 과제(1~6)](./assignments/2026-03-23-MON/vuejs-gramma/README.md)
+
+<br>
+
+### 📅 2026-03-25
+
+- [2026-03-25 컴포넌트 심화(기본)](./assignments/2026-03-25-WED/basic)
+- [2026-03-25 컴포넌트 심화(심화)](./assignments/2026-03-25-WED/advance)
