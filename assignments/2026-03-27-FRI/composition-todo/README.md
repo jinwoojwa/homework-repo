@@ -2,6 +2,9 @@
 
 Vue 3 기반 TodoList Application 1.1 앱입니다.
 
+<img src="https://github.com/user-attachments/assets/c8980087-2839-4204-817f-921d695915a6" width=400>
+
+
 ## TodoList 1.0 => 1.1 리팩토링
 
 - Options API → Composition API 변환
