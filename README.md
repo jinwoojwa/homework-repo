@@ -30,3 +30,9 @@
 
 - [2026-03-25 컴포넌트 심화(기본)](./assignments/2026-03-25-WED/basic)
 - [2026-03-25 컴포넌트 심화(심화)](./assignments/2026-03-25-WED/advance)
+
+<br>
+
+### 📅 2026-03-27 FRI
+
+- [2026-03-27 Todo List 프로젝트 (Composition API)](./assignments/2026-03-27-FRI/composition-todo)
