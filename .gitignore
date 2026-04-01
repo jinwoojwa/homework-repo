@@ -1,0 +1,17 @@
+# Vue project
+assignments/**/node_modules/
+assignments/**/dist/
+
+# env
+assignments/**/.env
+assignments/**/.env.*
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
