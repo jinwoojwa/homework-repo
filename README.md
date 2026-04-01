@@ -36,3 +36,9 @@
 ### 📅 2026-03-27 FRI
 
 - [2026-03-27 Todo List 프로젝트 (Composition API)](./assignments/2026-03-27-FRI/composition-todo)
+
+<br>
+
+### 📅 2026-04-01 WED
+
+- [2026-04-01 Vue Router 과제](./assignments/2026-04-01-WED/router-test)
