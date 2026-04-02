@@ -27,7 +27,10 @@ app.use((req, res, next) => {
 app.get('/api/data', async (req, res) => {
   try {
     const data = await readDataFile();
-    res.json(data);
+    res.json({
+      message: 'GET 요청 성공!',
+      data: data,
+    });
   } catch (error) {
     res.status(500).json({ error: 'Internal Server Error' });
   }
@@ -44,7 +47,7 @@ app.post('/api/data', async (req, res) => {
     };
     data.push(writeData);
     await writeDataFile(data);
-    res.json(newData);
+    res.json(writeData);
   } catch (error) {
     console.log(error);
     res.status(500).json({ error: 'Internal Server Error' });
