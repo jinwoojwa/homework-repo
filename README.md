@@ -42,3 +42,9 @@
 ### 📅 2026-04-01 WED
 
 - [2026-04-01 Vue Router 과제](./assignments/2026-04-01-WED/router-test)
+
+<br>
+
+### 📅 2026-04-02 THU
+
+- [2026-04-02 REST API 실습(Express + Axios)](./assignments/2026-04-02-THU/rest-api)
