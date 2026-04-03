@@ -48,3 +48,4 @@
 ### 📅 2026-04-02 THU
 
 - [2026-04-02 REST API 실습(Express + Axios)](./assignments/2026-04-02-THU/rest-api)
+- [2026-04-02 REST API 추가 실습](./assignments/2026-04-02-THU/my-app)
