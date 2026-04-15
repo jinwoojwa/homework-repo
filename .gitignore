@@ -13,5 +13,10 @@ assignments/**/.env.*
 .vscode/
 .idea/
 
+# Intellij
+.idea
+*.iml
+out/
+
 # OS
 .DS_Store
