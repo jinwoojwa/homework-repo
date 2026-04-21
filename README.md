@@ -64,3 +64,10 @@
 - [2026-04-20 상속 심화](./assignments/2026-04-20-MON/advance)
 
 <br>
+
+### 📅 2026-04-21 TUE
+
+- [2026-04-21 인터페이스 기본](./assignments/2026-04-21-TUE/interface/basic)
+- [2026-04-21 인터페이스 심화](./assignments/2026-04-21-TUE/interface/advance)
+
+<br>
