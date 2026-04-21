@@ -69,5 +69,7 @@
 
 - [2026-04-21 인터페이스 기본](./assignments/2026-04-21-TUE/interface/basic)
 - [2026-04-21 인터페이스 심화](./assignments/2026-04-21-TUE/interface/advance)
+- [2026-04-21 중첩 객체 기본](./assignments/2026-04-21-TUE/nested_class/basic)
+- [2026-04-21 중첩 객체 심화](./assignments/2026-04-21-TUE/nested_class/advance)
 
 <br>
