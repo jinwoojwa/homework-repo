@@ -73,3 +73,9 @@
 - [2026-04-21 중첩 객체 심화](./assignments/2026-04-21-TUE/nested_class/advance)
 
 <br>
+
+### 📅 2026-04-22 WED
+
+- [2026-04-22 예외 처리](./assignments/2026-04-22-WED)
+
+<br>
