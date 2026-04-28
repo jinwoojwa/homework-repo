@@ -79,3 +79,10 @@
 - [2026-04-22 예외 처리](./assignments/2026-04-22-WED)
 
 <br>
+
+### 📅 2026-04-28 TUE
+
+- [2026-04-28 제네릭 기본](./assignments/2026-04-28-TUE/generic/basic)
+- [2026-04-28 제네릭 심화](./assignments/2026-04-28-TUE/generic/advance)
+- [2026-04-28 컬렉션 기본](./assignments/2026-04-28-TUE/collection/basic)
+- [2026-04-28 컬렉션 심화](./assignments/2026-04-28-TUE/collection/advance)
